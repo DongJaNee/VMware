@@ -22,3 +22,17 @@ chmod +x VMware-Workstation-Full-17.6.3.x86_64.bundle
 ```bash
 sudo ./VMware-Workstation-Full-17.6.3.x86_64.bundle
 ```
+
+## 4. VMware 실행
+설치가 완료된 후, 아래 명령어로 VMware Workstation Pro를 실행할 수 있습니다:
+
+```bash
+vmware
+```
+
+## 5. RHEL VM 설정 권장사항
+Red Hat Enterprise Linux VM 생성 시 권장 설정:
+
+* **CPU**: 4~8 코어
+* **메모리**: 8GB 이상
+* **디스크**: 50GB 이상
