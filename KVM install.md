@@ -35,3 +35,13 @@ wget https://releases.ubuntu.com/22.04.1/ubuntu-22.4.1-desktop-amd64.iso
 ### 2-5 디스크 용량 선택
 
 <img width="457" height="448" alt="image" src="https://github.com/user-attachments/assets/c8ff7bcb-76f5-43e9-9e14-c6554c621fec" />
+
+### 2-6 가상 머신 관리자에서 사용할 이름 선택
+
+<img width="991" height="455" alt="image" src="https://github.com/user-attachments/assets/43dcbe55-39e0-4c53-93d2-fa6c561ac474" />
+
+### 3 설치 완료 
+
+<img width="746" height="630" alt="image" src="https://github.com/user-attachments/assets/dad33629-09ae-4ffc-b852-2e30e0e19821" />
+
+이후에는 Ubuntu install 방법과 동일하다. 
