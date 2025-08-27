@@ -13,7 +13,7 @@ reboot
 ## 2. 가상머신 생성 및 OS install
 Ubuntu 22.04 ISO file download
 ```
-wget https://releases.ubuntu.com/22.04.1/ubuntu-22.4.1-desktop-amd64.iso
+wget https://releases.ubuntu.com/22.04.1/ubuntu-22.04.1-desktop-amd64.iso
 ```
 ### 2-1 새로운 가상 머신 추가 
 
